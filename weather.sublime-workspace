@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Auth",
+				"Authenticator"
+			],
+			[
+				"re",
+				"requestBody"
+			],
+			[
+				"put",
+				"PutPosts"
+			],
+			[
+				"Ev",
+				"Events"
+			],
+			[
+				"Ac",
+				"Active"
+			],
+			[
+				"la",
+				"lambda_handler"
+			],
+			[
+				"data",
+				"dataItems"
+			],
+			[
+				"por",
+				"portfolio_zip"
+			],
+			[
+				"eu",
+				"eu-west-1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Package",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ENABLEP",
+				"Package Control: Enable Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/neurons/workspace/serverless/code/weather-app"
+	],
+	"file_history":
+	[
+		"/Users/neurons/workspace/serverless/code/react-blog-profile/package.json",
+		"/Users/neurons/workspace/serverless/code/react-blog-profile/webpack.config.js",
+		"/Users/neurons/workspace/serverless/code/react-blog-profile/src/index.js",
+		"/Users/neurons/workspace/serverless/code/react-blog-profile/index.html",
+		"/Users/neurons/workspace/serverless/code/serverlessblog/serverlessblog/buildspec.yaml",
+		"/Users/neurons/Library/Application Support/Sublime Text 3/Packages/Python Imports Sorter/Default (OSX).sublime-keymap",
+		"/Users/neurons/Library/Application Support/Sublime Text 3/Packages/Python Imports Sorter/Default.sublime-settings",
+		"/Users/neurons/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/Default (OSX).sublime-keymap",
+		"/Users/neurons/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/Users/neurons/workspace/serverless/code/react-blog-profile/buildspec.yml",
+		"/Users/neurons/workspace/serverless/code/react-blog-profile/blog.html",
+		"/Users/neurons/workspace/serverless/code/react-blog-profile/src/blog-post.js",
+		"/Users/neurons/workspace/serverless/code/react-blog-profile/src/blog.js",
+		"/Users/neurons/workspace/serverless/code/react-blog-profile/dist/main.js",
+		"/Users/neurons/workspace/serverless/code/react-boilerplate/src/index.html",
+		"/Users/neurons/workspace/serverless/code/react-boilerplate/package.json",
+		"/Users/neurons/workspace/serverless/code/react-boilerplate/buildspec.yml",
+		"/Users/neurons/workspace/serverless/code/react-boilerplate/.babelrc",
+		"/Users/neurons/workspace/serverless/code/react-boilerplate/webpack.config.js",
+		"/Users/neurons/workspace/serverless/code/react-boilerplate/dist/main.js",
+		"/Users/neurons/workspace/serverless/code/react-boilerplate/package-lock.json",
+		"/Users/neurons/workspace/serverless/code/react-boilerplate/src/index.js",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/text.py",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/lambda/upload-portfolio-lambda.py",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/lambda/getposts.py",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/lambda/newposts.py",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/upload-portfolio-lambda.py",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/node_modules/webpack-cli/bin/config-yargs.js",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/.babelrc",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/webpack.config.js",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/dist/main.js",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/src/blog-post.js",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/node_modules/webpack-cli/bin/webpack.js",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/src/index.js",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/package.json",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/buildspec.yml",
+		"/Users/neurons/workspace/serverless/code/startbootstrap-resume-gh-pages/README.md",
+		"/Users/neurons/workspace/serverless/code/startbootstrap-resume-gh-pages/index.html",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/styles/resume.min.css",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/styles/resume.css",
+		"/Users/neurons/workspace/serverless/code/startbootstrap-resume-gh-pages/css/resume.min.css",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/styles/bootstrap.min.css.map",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/styles/bootstrap.min.css",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/styles/all.min.css",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/src/resume.js",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/blog.html",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/.gitignore",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/index.html",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/package-lock.json",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/webpackfile.js ",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/src/main.js",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/js/resume.min.js",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/js/main.js",
+		"/Users/neurons/workspace/serverless/code/startbootstrap-coming-soon-gh-pages/index.html",
+		"/Users/neurons/workspace/serverless/code/my-portfolio/styles/main.css",
+		"/Users/neurons/workspace/Python/python_helloworld/hello/views.py",
+		"/Users/neurons/workspace/Python/python_helloworld/python_helloworld/settings.py",
+		"/Users/neurons/workspace/Python/python_helloworld/python_helloworld/urls.py",
+		"/Users/neurons/work/AWS/Projects/EB/wordpress-beanstalk/.ebextensions/efs-create.config",
+		"/Users/neurons/work/AWS/Projects/EB/Docker/WPDocker/cfn.json",
+		"/Users/neurons/work/AWS/Projects/Cloudwatch/resources/autoscaling.json",
+		"/Users/neurons/work/AWS/Projects/EB/Docker/WPDocker/Dockerfile",
+		"/Users/neurons/work/AWS/Projects/EB/Docker/single/Dockerfile",
+		"/Users/neurons/work/AWS/Projects/EB/Docker/single/Dockerrun.aws.json",
+		"/Users/neurons/work/AWS/Projects/EB/wordpress-beanstalk/.ebextensions/dev.config",
+		"/Users/neurons/work/AWS/Projects/CFN/intial-stack.json",
+		"/Users/neurons/Desktop/9164069280",
+		"/Users/neurons/Desktop/Devops.txt",
+		"/Users/neurons/Desktop/lastpass.csv",
+		"/Users/neurons/.bash_profile"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "weather.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/serverless/code/react-blog-profile/react.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
